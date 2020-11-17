@@ -14,17 +14,15 @@
   - **Html5, CSS, Javascript, Angular, Node.js, MySQL, XAMP, TypeScript, Git, soucetree**
 
 ## Mis primeros proyectos:
-- Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)
-- toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)
-- Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/)
-<img src="img\Screenshot_2020-11-15 Listado de tareas.jpg">
 
 |                                                                         |                                                                     |
 |-------------------------------------------------------------------------|---------------------------------------------------------------------|
-|Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|<img src="/img/blog.jpg" style="width:800px;height:300px;">          |
-|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)   |<img src="/img/todo.jpg" style="width:800px;height:300px;">          |
-|Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/) |<img src="/img/hamburgueseria.jpg" style="width:800px;height:300px;">|
+|Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|<img src="/img/blog.jpg" style="width:120px;height:80px;">          |
+|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)   |<img src="/img/todo.jpg" style="width:120px;height:80px;">          |
+|Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/) |<img src="/img/hamburgueseria.jpg" style="width:120px;height:80px;">|
 
+
+<hr>
 
 <img alt="raultejero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raultejero&show_icons=true&hide_border=true" />
 
