@@ -15,13 +15,6 @@
 
 ## Mis primeros proyectos:
 
-|Titulo                                                                   |hosting                                                             |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------|
-|Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|<img src="/img/blog.jpg" style="width:120px;height:80px;">          | 
-|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)   |<img src="/img/todo.jpg" style="width:120px;height:80px;">          | 
-|Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/) |<img src="/img/hamburgueseria.jpg" style="width:120px;height:80px;">|
-
-
 |                                                                         |                                                                       |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/) |
