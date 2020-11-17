@@ -13,5 +13,5 @@ raultejero.md
 
 
 
-[twitter]: http://www.twitter.com/m_giron
-[linkedin]: https://www.linkedin.com/in/mariogironm/
+[twitter]: https://twitter.com/Raul_te_ma
+[linkedin]: https://www.linkedin.com/in/raul-tejero-martos-302569167/
