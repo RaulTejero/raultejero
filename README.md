@@ -3,12 +3,12 @@
 
 
 ## ¿Donde estoy ahora?
-- Cursando: Bootcamp fullstack MEAN full-time **Neolan**  [link](https://www.neoland.es/)
+- Cursando: Bootcamp fullstack MEAN full-time **Neolan** 
 
 
 ## Logros :
-- Cursando: bootcamp fullstack MEAN en Neolan "2020".
-- Finalizacion: curso introduccion javascript orientado a objetos Fictizia "2019"
+- Cursando: bootcamp fullstack MEAN en **Neolan** "2020".
+- Finalizacion: curso introduccion javascript orientado a objetos **Fictizia** "2019"
 
 ## Conocimientos:
   - **Html5, CSS, Javascript, Angular, Node.js, MySQL, XAMP, TypeScript, Git, soucetree**
