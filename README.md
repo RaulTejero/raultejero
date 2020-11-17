@@ -4,7 +4,7 @@ raultejero.md
 
 ## ¿Donde estoy ahora?
 - Cursando: Bootcamp fullstack MEAN full-time **Neolan**  [link](https://www.neoland.es/)
-<img alt="raultejero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raultejero&show_icons=true&hide_border=true" />
+
 
 ## Logros :
 - Cursando: bootcamp fullstack MEAN en Neolan "2020".
@@ -14,6 +14,7 @@ raultejero.md
 - toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)
 - Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/)
 
+<img alt="raultejero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raultejero&show_icons=true&hide_border=true" />
 
 ## Encuentrame en:
 
