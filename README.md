@@ -1,25 +1,25 @@
 
-#### < Hola, mi nombre es Raul,soy fullstack developer MEAN 🤯 >
+#### < Hola, mi nombre es Raul,soy fullstack developer MEAN >
 
 
 ## ¿Donde estoy ahora?
-- 📚 Cursando: Bootcamp fullstack MEAN full-time **Neolan** 
+- Cursando: Bootcamp fullstack MEAN full-time **Neolan** 
 
 
 ## Logros :
-- 📚 Cursando: bootcamp fullstack MEAN en **Neolan** "2020".
-- 🎓 Finalizacion: curso introduccion javascript orientado a objetos **Fictizia** "2019"
+- Cursando: bootcamp fullstack MEAN en **Neolan** "2020".
+- Finalizacion: curso introduccion javascript orientado a objetos **Fictizia** "2019"
 
 ## Conocimientos:
   - **Html5, CSS, Javascript, Angular, Node.js, MySQL, XAMP, TypeScript, Git, soucetree**
 
 ## Mis primeros proyectos:
-   
-|Titulo                                                                   |hosting                                                             |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------|
-|Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|<img src="/img/blog.png" style="width:20px;height:10px;">           |
-|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)   |<img src="/img/todo.jpg" style="width:20px;height:10px;">           |
-|Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/) |<img src="/img/hamburgueseria.jpg" style="width:20px;height:10px;"> |
+
+|                                                                         |                                                                     |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------|
+|Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)|<img src="/img/blog.png" style="width:120px;height:80px;">          |
+|toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)   |<img src="/img/todo.jpg" style="width:120px;height:80px;">          |
+|Mi primera onePage [link](https://hamburgueseria-5d0f3.firebaseapp.com/) |<img src="/img/hamburgueseria.jpg" style="width:120px;height:80px;">|
 
 
 <hr>
