@@ -9,6 +9,10 @@
 ## Logros :
 - Cursando: bootcamp fullstack MEAN en Neolan "2020".
 - Finalizacion: curso introduccion javascript orientado a objetos Fictizia "2019"
+
+## Conocimientos:
+  - **Html5, CSS, Javascript, Angular, Node.js, MySQL, XAMP, TypeScript, Git, soucetree**
+
 ## Mis primeros proyectos:
 - Mi primera app Angular [link](https://appblog-68dfd.firebaseapp.com/blog)
 - toDo mi primera app con JS [link](https://todo-d615f.firebaseapp.com/)
