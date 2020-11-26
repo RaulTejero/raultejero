@@ -1,5 +1,5 @@
 
-#### < Hola, mi nombre es Raul, soy fullstack developer MEAN 🤯>
+#### < Hola, mi nombre es Raul, soy fullstack developer MEAN Junior 🤯>
 
 
 ## ¿Donde estoy ahora?
