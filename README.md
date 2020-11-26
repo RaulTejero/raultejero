@@ -11,7 +11,7 @@
 - 👨‍🎓 Finalizacion: curso introduccion javascript orientado a objetos **Fictizia** "2019"
 
 ## Conocimientos:
-  - **Html5, CSS, Javascript, Angular, Node.js, MySQL, XAMP, TypeScript, Git, soucetree**
+  - **Html5, CSS, Javascript, Angular, Node.js, MySQL, Express, XAMP, TypeScript, Git, soucetree**
 
 ## Mis primeros proyectos:
 
