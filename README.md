@@ -7,7 +7,7 @@
 
 
 ## Logros :
-- 📚 Cursando: bootcamp fullstack MEAN en **Neolan** "2020".
+- 👨‍🎓 Finalizacion: bootcamp fullstack MEAN en **Neolan** "2020".
 - 👨‍🎓 Finalizacion: curso introduccion javascript orientado a objetos **Fictizia** "2019"
 
 ## Conocimientos:
