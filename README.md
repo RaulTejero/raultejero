@@ -3,7 +3,7 @@
 
 
 ## ¿Donde estoy ahora?
-- 📚 Cursando: Bootcamp fullstack MEAN full-time **Neolan** 
+- 📚 Creando y asentando bases del Bootcamp fullstack MEAN full-time **Neolan** 
 
 
 ## Logros :
