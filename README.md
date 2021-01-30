@@ -3,7 +3,7 @@
 
 
 ## ¿Donde estoy ahora?
-- 📚 Creando y asentando bases del Bootcamp fullstack MEAN full-time **Neolan** 
+- 📚 Creando un portfolio escalable y reactivo para despues seguir creando, y asi asentar las bases del Bootcamp fullstack MEAN full-time **Neolan** 
 
 
 ## Logros :
