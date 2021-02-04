@@ -30,6 +30,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Web" width="22px" src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F205387%2Fisolated%2Fpreview%2F9e5a4a16e78a187fc3e47fc6e2c5f03a-trazo-de-icono-de-sitio-web-de-internet-by-vexels.png&imgrefurl=https%3A%2F%2Fes.vexels.com%2Fpng-svg%2Fvista-previa%2F205387%2Ftrazo-de-icono-de-sitio-web-de-internet&tbnid=ERWRmk4SXFOTzM&vet=12ahUKEwjN3saL-s7uAhXl3eAKHaLeDQ4QMygBegUIARC6AQ..i&docid=ylQW5nUhSxLjgM&w=512&h=512&q=icono%20web%20svg&client=ms-android-xiaomi-rev1&ved=2ahUKEwjN3saL-s7uAhXl3eAKHaLeDQ4QMygBegUIARC6AQ " />][linkedin]
 
 [twitter]: https://twitter.com/Raul_te_ma
 [linkedin]: https://www.linkedin.com/in/raul-tejero-martos-302569167/
